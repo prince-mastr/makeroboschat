@@ -13,8 +13,8 @@ So Let's Start <br />
 # Getting Started <br />
 
 $ git clone <br />
-$ source makeroboschatsimple/bin/activate <br />
-$ cd makeroboschatsimple <br />
+$ source makeroboschat/bin/activate <br />
+$ cd makeroboschat <br />
 $ pip install -r requirements.txt<br />
 $ python manage.py makemigrations <br />
 $ python manage.py migrate <br />
